@@ -11,7 +11,8 @@ WhyBSML is a set of WhyML modules (the langage of [Why3](https://why3.lri.fr)) t
 
 ## Software
 
-- [WhyBSML](https://github.io/whybsml/whybsml)
+- [WhyBSML](https://github.com/whybsml/whybsml)
+- Releases also available on [Zenodo](https://doi.org/10.5281/zenodo.8166091)
 
 ## Publications
 

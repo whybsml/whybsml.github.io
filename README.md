@@ -16,6 +16,7 @@ WhyBSML is a set of WhyML modules (the langage of [Why3](https://why3.lri.fr)) t
 
 ## Publications
 
+1. Olivia Proust, Frédéric Loulergue, Verified Scalable Parallel Computing with Why3, In 21st International Conference on Software Engineering and Formal Methods ([SEFM](https://sefm-conference.github.io/2023/acceptedpapers/)), LNCS, Springer, 2023 ([preprint](https://hal.science/hal-04173428))
 
 ## Theses 
 
